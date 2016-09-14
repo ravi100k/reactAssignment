@@ -1,0 +1,70 @@
+.jumbotron{
+	margin-top: 0;
+	margin-bottom: 35px;
+}
+
+.row{
+
+		display: inline;
+}
+
+
+	.col-lg-4
+	{
+		width: 50px;
+		height: 100px;
+	}
+#image{
+
+	display: inline;
+	float: left;
+}
+#text{
+	display: inline;
+	float: right;
+}
+#GrandChild
+{
+
+}
+#gc
+{
+
+
+}
+#logo{
+	width: 100px;
+	height: 65px;
+	float: left;
+
+}
+
+
+#searchButton
+{
+	display: inline;
+	width: 110px;
+	height: 50px;
+	float: right;
+
+}
+#searchBox
+{
+	width: 1175px;
+	height: 50px;
+	display: inline;
+
+	padding-left: 700px;
+	padding-bottom: 30px;
+}
+
+#search-logo
+{
+	width: 30px;
+	height: 30px;
+}
+#heading
+{
+	font-family: cursive;
+	text-align: center;
+}
